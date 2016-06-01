@@ -7,3 +7,9 @@ put
 get
 
 There are refinements on these operations including, for example, timeouts where the tuple will only exist for a given period and also transactions that are based on atomic actions and commit/rollback in the tuplespace.
+
+Wiki is being moved from 
+
+https://sourceforge.net/projects/tuplespaces/
+
+Github.
