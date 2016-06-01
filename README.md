@@ -10,6 +10,6 @@ There are refinements on these operations including, for example, timeouts where
 
 Wiki is being moved from 
 
-https://sourceforge.net/projects/tuplespaces/
+https://sourceforge.net/p/tuplespaces/wiki/browse_pages/
 
 Github.
