@@ -16,4 +16,4 @@ Wiki is being moved from
 
 https://sourceforge.net/p/tuplespaces/wiki/browse_pages/
 
-Github.
+to Github.
